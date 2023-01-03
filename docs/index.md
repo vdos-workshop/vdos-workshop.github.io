@@ -1,17 +1,18 @@
 ---
-title: International Conference on Biomedical Ontology - Junguk
-description: Premier conference on for Biology, Medicine, Health, Environment, Plants & Agriculture
+title: International Workshop on Vaccine and Drug Ontology Studies (VDOS)
+description: Premier workshop on studies related to vaccine, drug, and related ontologies
 ---
-## International Conference on Biomedical Ontology (ICBO)
+## International Workshop on Vaccine and Drug Ontology Studies (VDOS)
 
 ## ICBO Annual Conference Series
 The International Conference on Biomedical Ontology (ICBO) is a premier annual conference series that brings together researchers, students and professionals involved in the development and application of ontologies in all areas of biology, medicine, diseases, human health, genome biology, environment, biomes, nutrition, food, plants, agriculture and others. Together, they address issues pertaining to coordinated development of ontological resources, data standards, as well as the optimal use of ontologies in applications.
 
-## Upcoming ICBO Confernce:
-To Be Announced
+## Upcoming VDOS Confernce:
+To Be Announced for 2023
 
-## Previous ICBO Conferences:
-- 2022: Ann Arbor, MI, USA [icbo-conference.github.io/icbo2022](https://icbo-conference.github.io/icbo2022/)
+## Previous VDOS Conferences:
+
+- 2022: Ann Arbor, MI, USA [https://sites.google.com/view/vdosworkshop/vdos-2022](https://sites.google.com/view/vdosworkshop/vdos-2022)
 - 2021: Bolzano, Italy [icbo2021.inf.unibz.it](https://icbo2021.inf.unibz.it/) ([proceedings](http://ceur-ws.org/Vol-3073/))
 - 2020: Bolzano, Italy [icbo2020.inf.unibz.it](https://icbo2020.inf.unibz.it/) ([proceedings](http://ceur-ws.org/Vol-2807/))
 - 2019: Buffalo, NY, USA [icbo.buffalo.edu](http://icbo.buffalo.edu/) ([proceedings](http://ceur-ws.org/Vol-2931/))
