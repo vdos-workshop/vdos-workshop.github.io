@@ -1,5 +1,4 @@
 # vdos-workshop.github.io
-# Hello baby
 
 This repository manages the content for the [International Workshop on 
 Vaccine and Drug Ontology Studies](https://vdos-workshop.github.io/) website.  
