@@ -1,5 +1,5 @@
 ---
-title: International Conference on Biomedical Ontology
+title: International Conference on Biomedical Ontology - Junguk
 description: Premier conference on for Biology, Medicine, Health, Environment, Plants & Agriculture
 ---
 ## International Conference on Biomedical Ontology (ICBO)
