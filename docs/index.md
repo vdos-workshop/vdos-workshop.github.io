@@ -13,14 +13,14 @@ To Be Announced for 2023
 
 ## Previous VDOS Conferences:
 
-- 2022: Ann Arbor, MI, USA. [11th VDOS] (https://sites.google.com/view/vdosworkshop/vdos-2022)
-- 2021: Bolzano, Italy. [10th VDOS] (https://sites.google.com/view/vdosworkshop/vdos-2021)
-- 2020: Bolzano, Italy. [9th VDOS] (https://sites.google.com/view/vdosworkshop/vdos-2020)
-- 2019: Buffalo, NY, USA. [8th VDOS] (https://sites.google.com/view/vdosworkshop/vdos-2019)
-- 2018: Corvallis, OR, USA. [7th VDOS] (https://sites.google.com/view/vdosworkshop/vdos-2018)
-- 2017: Newcastle, UK. [6th VDOS] (https://sites.google.com/site/vdosworkshop/vdos-2017)
-- 2016: Corvallis, OR, USA. [5th VDOS] (https://sites.google.com/site/vdosworkshop/vdos2016)
-- 2015: Lisbon, Portugal. [4th VDOS] (https://sites.google.com/view/vdosworkshop/vdos-2015)
-- 2014: Houston, TX, USA. [3rd VDOS] (https://sites.google.com/view/vdosworkshop/vdos2014)
+- 2022: Ann Arbor, MI, USA. [11th VDOS](https://sites.google.com/view/vdosworkshop/vdos-2022)
+- 2021: Bolzano, Italy. [10th VDOS](https://sites.google.com/view/vdosworkshop/vdos-2021)
+- 2020: Bolzano, Italy. [9th VDOS](https://sites.google.com/view/vdosworkshop/vdos-2020)
+- 2019: Buffalo, NY, USA. [8th VDOS](https://sites.google.com/view/vdosworkshop/vdos-2019)
+- 2018: Corvallis, OR, USA. [7th VDOS](https://sites.google.com/view/vdosworkshop/vdos-2018)
+- 2017: Newcastle, UK. [6th VDOS](https://sites.google.com/site/vdosworkshop/vdos-2017)
+- 2016: Corvallis, OR, USA. [5th VDOS](https://sites.google.com/site/vdosworkshop/vdos2016)
+- 2015: Lisbon, Portugal. [4th VDOS](https://sites.google.com/view/vdosworkshop/vdos-2015)
+- 2014: Houston, TX, USA. [3rd VDOS](https://sites.google.com/view/vdosworkshop/vdos2014)
 - 2013: Montreal, Canada. 2nd VDOS
 - 2012: Graz, Austria. 1st VDOSME.
