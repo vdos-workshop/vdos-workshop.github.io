@@ -13,6 +13,7 @@ To Be Announced for 2023
 
 ## Previous VDOS Conferences:
 
+- 2023: Brasilia, Brazil. ([12th VDOS](https://vdos-workshop.github.io/vdos2023/))
 - 2022: Ann Arbor, MI, USA. ([11th VDOS](https://sites.google.com/view/vdosworkshop/vdos-2022))
 - 2021: Bolzano, Italy. ([10th VDOS](https://sites.google.com/view/vdosworkshop/vdos-2021))
 - 2020: Bolzano, Italy. ([9th VDOS](https://sites.google.com/view/vdosworkshop/vdos-2020))
